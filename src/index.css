@@ -1,0 +1,14 @@
+body {
+    background-color:#0b1e34 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.container {
+    color: red;
+}
+h1,h2 {
+    color: aliceblue;
+}
